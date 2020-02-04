@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.efsavage</groupId>
 	<artifactId>App</artifactId>
-	<version>4.1-SNAPSHOT</version>
+	<version>5.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Web Application</name>
 	<description>Java Webapp</description>
@@ -48,7 +48,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>build releases</name>
-			<url>http://35.238.242.198:8081/repository/kig-app/</url>
+			<url>http://34.68.218.106:8081/repository/kig-app/</url>
 		</repository>
 	</distributionManagement>
 </project>
