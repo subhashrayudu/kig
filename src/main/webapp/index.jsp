@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body bgcolor="#A29795">
+<body bgcolor="#C7C700">
 <center>
 <h2> <font color="F7F2F1"> Welcome To KIG </font> </h2>
 
