@@ -48,7 +48,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>build releases</name>
-			<url>http://35.224.71.109:8081/repository/kig-app/</url>
+			<url>http://35.193.123.86:8081/repository/kig-app/</url>
 		</repository>
 	</distributionManagement>
 </project>
